@@ -10,7 +10,7 @@
 
 * [Aula 3 - Variáveis](https://github.com/pvreboucas/java-refatoracao/tree/aula-03)
 
-* [Aula 4 - Substituindo algoritmo](hhttps://github.com/pvreboucas/java-refatoracao/tree/aula-04)
+* [Aula 4 - Substituindo algoritmo](https://github.com/pvreboucas/java-refatoracao/tree/aula-04)
 
 * [Aula 5 - Extraindo classes](https://github.com/pvreboucas/java-refatoracao/tree/aula-05)
 
